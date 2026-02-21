@@ -5,7 +5,7 @@ export default function Hero() {
                 Sistema de Design
             </div>
             <h1 style={{
-                fontFamily: 'var(--font-display)',
+                fontFamily: 'var(--font-brand)',
                 fontSize: 'clamp(36px,6vw,72px)',
                 fontWeight: 900,
                 background: 'var(--grad-brand)',

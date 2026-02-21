@@ -2,7 +2,7 @@ export default function TypographySection() {
     return (
         <div className="section fade-up delay-3">
             <div className="section-label">Fundação</div>
-            <h2 className="section-title">Tipografia (Hierarquia Nova)</h2>
+            <h2 className="section-title">Tipografia</h2>
 
             <div className="type-samples">
 
